@@ -5,4 +5,5 @@ public class VotingEligibility {
  System.out.println("Eligible to vote.");
  } else {
  System.out.println("Not eligible to vote.");
+  System.out.println("Not eligible to vote.");
 }}}
